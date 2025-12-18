@@ -3,7 +3,6 @@
 A Python-based backtesting engine for Moving Average Crossover strategies using Pandas and yfinance.
 
 ![Strategy Visualization](SMA-Crossover-Strategy-Chart.png)
-*(Note: Replace 'chart_image.png' with the actual filename of your chart screenshot)*
 
 ## 📈 Project Overview
 This project backtests a technical trading strategy on Apple (AAPL) stock data from 2024-2025. It algorithmically identifies buy/sell signals based on the intersection of the 20-day and 50-day Simple Moving Averages (SMA).
